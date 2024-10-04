@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# For flight trials where flies rest during the intertrial period - subfolders fig2C,G, fig2E,I, fig2K,O, fig2M,Q
+# For flight trials where flies rest during the intertrial period - subfigures fig2C,G, fig2D,H, fig2K,O, and fig2L,P
 # Plots Sun1 and Sun2 headings as a linear plot, plots heading difference as a polar plot and reshuffled distribution(bootstrap analysis)
 
 from turtle import delay
