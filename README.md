@@ -3,6 +3,7 @@ Python codes used to analyze fly heading data and create plots used in Pae, Liao
 
 circstats.py is required to run all the data analysis code which can be found here:
 https://github.com/jhamrick/python-snippets/blob/master/snippets/circstats.py
+circstats.py needs to run before running any data analysis code.
 
 Each analysis code is organized by figures and subfigures. Each python code can be used to analyze the corresponding individual heading data available in Dryad(_).  
 
