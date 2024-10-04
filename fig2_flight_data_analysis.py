@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# For flight trials where flies fly continuously - subfolders fig2D,H,  fig2L,P, fig2N,R 
+# For flight trials where flies fly continuously - subfigures fig2EI, fig2F,J  fig2M,Q, fig2N,R 
 # Plots Sun1 and Sun2 headings as a linear plot, plots heading difference as a polar plot and reshuffled distribution(bootstrap analysis)
 
 from turtle import delay
