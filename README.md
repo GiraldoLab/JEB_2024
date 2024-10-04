@@ -5,7 +5,7 @@ circstats.py is required to run all the data analysis code which can be found he
 https://github.com/jhamrick/python-snippets/blob/master/snippets/circstats.py
 circstats.py needs to run before running any data analysis code.
 
-Each analysis code is organized by figures and subfigures. Each python code can be used to analyze the corresponding individual heading data available in Dryad(_).  
+Each analysis code is organized by figures and subfigures. Each python code can be used to analyze the corresponding individual heading data available in Dryad(doi:10.5061/dryad.fbg79cp55).  
 
 *Please note below:
 - fig2_flight_data_analysis.py is for analyzing the heading of the groups where flies were flying during the varied stimulus period (fig2E,I, fig2F,J,   fig2M,Q and  fig2N,R) The first 15minutes of individual heading data from fig1B,C and fig1D is used to generate fig2F,J and fig2N,R, respectively.
